@@ -23,7 +23,7 @@ for i in range(0, len(numbers) - 1):
 if flag :
     print("Not Possible")
     
-    
+'''    
 Input:
 No. of integers = 4
 Numbers = [2, 7, 11, 15]
@@ -44,5 +44,5 @@ Numbers = [2,8,5,7,18]
 Target Sum = 3,
 Output:
 Not Possible
- 
+ '''
  
